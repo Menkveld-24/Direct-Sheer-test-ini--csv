@@ -1,0 +1,16 @@
+{
+  "name": "transform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "pkg main.js --out-path build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ini": "^4.1.1",
+    "nexe": "^4.0.0-rc.2",
+    "pkg": "^5.8.1"
+  }
+}
